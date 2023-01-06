@@ -1,10 +1,10 @@
-package com.example.saasproject;
+package edu.greenriver.sdev.saasindividualproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SaasProjectApplicationTests
+class SaasIndividualProjectApplicationTests
 {
 
     @Test

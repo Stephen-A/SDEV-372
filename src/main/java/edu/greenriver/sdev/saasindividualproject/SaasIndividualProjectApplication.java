@@ -1,15 +1,15 @@
-package com.example.saasproject;
+package edu.greenriver.sdev.saasindividualproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SaasProjectApplication
+public class SaasIndividualProjectApplication
 {
 
     public static void main(String[] args)
     {
-        SpringApplication.run(SaasProjectApplication.class, args);
+        SpringApplication.run(SaasIndividualProjectApplication.class, args);
     }
 
 }
